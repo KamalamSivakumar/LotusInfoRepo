@@ -8,4 +8,5 @@ The article text is taken from Wikipedia and a blog on the internet:
 \"https://en.wikipedia.org/wiki/Nelumbo_nucifera\"]
 
 This project aims to use the various similarity measures and learn how to build chatbots.
+
 The next step would be to develop a conversational-ai or a rag, instead of giving replies based on similarity measures, the model will come up with its answers.
